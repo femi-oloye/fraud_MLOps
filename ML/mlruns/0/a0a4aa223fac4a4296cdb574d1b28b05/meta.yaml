@@ -1,0 +1,15 @@
+artifact_uri: file:///home/oluwafemi/fraud_detect/ML/mlruns/0/a0a4aa223fac4a4296cdb574d1b28b05/artifacts
+end_time: 1740053900148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a4aa223fac4a4296cdb574d1b28b05
+run_name: orderly-asp-984
+run_uuid: a0a4aa223fac4a4296cdb574d1b28b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740053895022
+status: 3
+tags: []
+user_id: oluwafemi

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/oluwafemi/fraud_detect/ML/mlruns/0/4e3b29dd73094e5ca1c09a70d10a83c4/artifacts
+end_time: 1740054507635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e3b29dd73094e5ca1c09a70d10a83c4
+run_name: casual-goose-701
+run_uuid: 4e3b29dd73094e5ca1c09a70d10a83c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740054504537
+status: 3
+tags: []
+user_id: oluwafemi

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/oluwafemi/fraud_detect/ML/mlruns/0/659b958a61184e0aabbbe41510fd48fd/artifacts
+end_time: 1740055715022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 659b958a61184e0aabbbe41510fd48fd
+run_name: rare-shrew-605
+run_uuid: 659b958a61184e0aabbbe41510fd48fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740055711386
+status: 3
+tags: []
+user_id: oluwafemi

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/oluwafemi/fraud_detect/ML/mlruns/0/92e0dc44ded749029513e89ca0e57ef9/artifacts
+end_time: 1740056078552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92e0dc44ded749029513e89ca0e57ef9
+run_name: sassy-fawn-208
+run_uuid: 92e0dc44ded749029513e89ca0e57ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740056075167
+status: 3
+tags: []
+user_id: oluwafemi

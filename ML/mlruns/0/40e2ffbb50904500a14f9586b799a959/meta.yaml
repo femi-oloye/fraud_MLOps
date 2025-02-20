@@ -1,0 +1,15 @@
+artifact_uri: file:///home/oluwafemi/fraud_detect/ML/mlruns/0/40e2ffbb50904500a14f9586b799a959/artifacts
+end_time: 1740056036213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40e2ffbb50904500a14f9586b799a959
+run_name: bouncy-asp-535
+run_uuid: 40e2ffbb50904500a14f9586b799a959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740056032959
+status: 3
+tags: []
+user_id: oluwafemi
